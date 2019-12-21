@@ -39,3 +39,9 @@ elif movimiento_máquina == "tijera":
     
     elif movimiento_jugador == 3:
         print("Empate (Tijera - Tijera)")
+
+xyz = 0
+
+while xyz == 0:
+    x = input("Pulsa enter para salir:  ")
+    xyz = 1
